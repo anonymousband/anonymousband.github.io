@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Live the Beat
+title: Live the Beat!
 permalink: /livethebeat/
 ---
 
