@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Anonymous is a band that plays our own music and plays well known music as well.
+Anonymous is an amazing band that plays music whenever we can.
