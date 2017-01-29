@@ -7,7 +7,9 @@ We are making lots of music at the moment. Check out this post:
 [Latest Songs!]({{ site.baseurl }}{% post_url 2017-01-29-latest-songs %})
 
 {% for post in site.categories.songs %}
-    <a href="{{post.url}}">{{ post.title }}</a>
+<ul>
+    <li><a href="{{post.url}}">{{ post.title }}</a></li>
+</ul>
 {% endfor %}
 
 {% for category in site.categories %}
